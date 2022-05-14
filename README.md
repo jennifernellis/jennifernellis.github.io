@@ -1,14 +1,18 @@
-## Welcome to GitHub Pages
+## Jennifer's Porfolio
 
-You can use the [editor on GitHub](https://github.com/jennifernellis/jennifernellis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+C# Adventure Game
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+![AdventureGame](https://user-images.githubusercontent.com/98362279/168447344-c0a47278-0252-469d-80ef-c88adea4f4b9.png)
+[AdventureGame1.zip](https://github.com/jennifernellis/jennifernellis.github.io/files/8693808/AdventureGame1.zip)
+
+A decision-based adventure game made with C#
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
@@ -25,6 +29,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![kfc](https://user-images.githubusercontent.com/98362279/168447179-631a480f-f438-40c5-8cc1-a3e537834168.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
